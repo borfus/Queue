@@ -1,4 +1,4 @@
-public class Queue<T>
+public class QueueLinkedList<T>
 {
     private Node first, last;
 
